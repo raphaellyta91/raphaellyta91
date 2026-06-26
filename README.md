@@ -6,41 +6,51 @@
 
 🎓 Licenciatura em Computação - UFERSA (cursando EAD)
 
-🎓 Técnica em Desenvolvimentos em Sistemas - SENAC (cursando)
+🎓 Técnica em Desenvolvimento de Sistemas - SENAC (cursando)
 
 💻 Desenvolvedora Fullstack Júnior
 
-## Tecnologias
-
-- JavaScript
-- Node.js
-- Express.js
-- HTML
-- CSS
-- SQLite
-- Git
-- GitHub
-
-## Projeto em Destaque
+## 🚀 Projeto em Destaque
 
 ### Escreva Ansioso
 
-Plataforma web de apoio emocional desenvolvida para auxiliar pessoas que enfrentam ansiedade e crises emocionais.
+Plataforma web de apoio emocional desenvolvida com Node.js, Express.js e SQLite.
 
-Tecnologias:
-- Node.js
-- Express.js
-- SQLite
-- Sequelize
-- HTML
-- CSS
-- JavaScript
+#### Funcionalidades
 
-🔗 Projeto:
+* Login e cadastro de usuários
+* Diário emocional
+* Modo crise
+* Fato ou Interpretação
+* Cadastro de acolhedores
+* CRUD completo
+
+#### Tecnologias
+
+* Node.js
+* Express.js
+* SQLite
+* Sequelize
+* HTML
+* CSS
+* JavaScript
+
+🔗 Repositório:
 https://github.com/raphaellyta91/escreva_ansioso
 
-## Contato
+## 🛠️ Tecnologias
 
-📧 raphaellyta91@gmail.com
+* JavaScript
+* Node.js
+* Express.js
+* HTML
+* CSS
+* SQLite
+* Git
+* GitHub
+
+## 📫 Contato
+
+📧 [raphaellyta91@gmail.com](mailto:raphaellyta91@gmail.com)
 
 📱 (84) 98741-3307
