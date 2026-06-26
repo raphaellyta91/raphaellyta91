@@ -1,16 +1,46 @@
-## Hi there 👋
+# Olá! Eu sou Rafaela Santos 👋
 
-<!--
-**raphaellyta91/raphaellyta91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Bacharel em Sistemas de Informação
 
-Here are some ideas to get you started:
+🎓 Técnica em Manutenção e Suporte em Informática - IFRN
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Licenciatura em Computação - UFERSA (cursando EAD)
+
+🎓 Técnica em Desenvolvimentos em Sistema - SENAC (cursando)
+
+💻 Desenvolvedora Fullstack Júnior
+
+## Tecnologias
+
+- JavaScript
+- Node.js
+- Express.js
+- HTML
+- CSS
+- SQLite
+- Git
+- GitHub
+
+## Projeto em Destaque
+
+### Escreva Ansioso
+
+Plataforma web de apoio emocional desenvolvida para auxiliar pessoas que enfrentam ansiedade e crises emocionais.
+
+Tecnologias:
+- Node.js
+- Express.js
+- SQLite
+- Sequelize
+- HTML
+- CSS
+- JavaScript
+
+🔗 Projeto:
+https://github.com/raphaellyta91/escreva_ansioso
+
+## Contato
+
+📧 raphaellyta91@gmail.com
+
+📱 (84) 98741-3307
