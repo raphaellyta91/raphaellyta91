@@ -6,7 +6,7 @@
 
 🎓 Licenciatura em Computação - UFERSA (cursando EAD)
 
-🎓 Técnica em Desenvolvimentos em Sistema - SENAC (cursando)
+🎓 Técnica em Desenvolvimentos em Sistemas - SENAC (cursando)
 
 💻 Desenvolvedora Fullstack Júnior
 
